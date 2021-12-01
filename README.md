@@ -2,7 +2,8 @@
 
 * [Introduction](#introduction)
 * [Implementation](#implementation)
-* [Options](#options)
+* [Public Methods](#public-methods)
+* [Options Parameter](#options-parameter)
 
 ### Introduction
 
@@ -18,7 +19,19 @@ let menu = new LightMenu({
 });
 ```
 
-### Options
+### Methods
+
+**Open:** Opens the menu manually.
+``` javascript
+menu.open();
+```
+
+**Close:** Closes the menu manually.
+``` javascript
+menu.close();
+```
+
+### Options Parameter
 
 Key | Explanation
 --- | ---
