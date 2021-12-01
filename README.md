@@ -5,11 +5,11 @@
 * [Public Methods](#public-methods)
 * [Options Parameter](#options-parameter)
 
-### Introduction
+## Introduction
 
 
 
-### Implementation
+## Implementation
 
 ``` javascript
 let menu = new LightMenu({
@@ -19,7 +19,7 @@ let menu = new LightMenu({
 });
 ```
 
-### Public Methods
+## Public Methods
 
 **Open:** Opens the menu manually.
 ``` javascript
@@ -31,7 +31,7 @@ menu.open();
 menu.close();
 ```
 
-### Options Parameter
+## Options Parameter
 
 Key | Explanation
 --- | ---
