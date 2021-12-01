@@ -19,7 +19,7 @@ let menu = new LightMenu({
 });
 ```
 
-### Methods
+### Public Methods
 
 **Open:** Opens the menu manually.
 ``` javascript
