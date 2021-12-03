@@ -7,9 +7,10 @@
 
 ## Introduction
 
-
+I am a super small menu library written in vanilla js. I only contain a few essential methods and am easy to handle. 
 
 ## Implementation
+The Library file needs to embede in the head of your site directly in the html code or via your cms. Then the class `LightMenu` can be called in another js file with all the [public methods](#public-methods) like in the following example.
 
 ``` javascript
 let menu = new LightMenu({
